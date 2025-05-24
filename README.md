@@ -33,8 +33,8 @@ sound effects, theme switching, and persistent score tracking.
 
 ![Screenshot 2025-05-24 112112](https://github.com/user-attachments/assets/a6b7b570-9465-4159-ae5e-a1a1c5566281)
 ![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/f705dffa-69a6-4751-9d26-e646ce186f25)
-![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/dd3fbeb7-2f55-4fa7-9ff5-2432c3c36915)
-![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/cf9a437c-d834-4e4f-97e6-a2b8918185df)
+![Screenshot 2025-05-24 112025](https://github.com/user-attachments/assets/6b832b68-3d26-4ade-bc13-82675b4fea77)
+![Screenshot 2025-05-24 112253](https://github.com/user-attachments/assets/96f3e7b4-da42-42bc-b48b-02c61551fe6a)
 
 
 ## ⚙️ Tech Stack
