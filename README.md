@@ -38,7 +38,7 @@ sound effects, theme switching, and persistent score tracking.
 
 ## 🔗 Live Demo : 
 
-👉 [Play Now](https://<your-username>.github.io/tic-tac-toe-ultimate/)  
+👉 [Play Now](https://nikeeta7.github.io/The-Ultimate--Tic-Tac-Toe/)
  
 
 ##  📸 Screenshots
