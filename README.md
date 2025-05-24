@@ -1,0 +1,49 @@
+# 🎮 The Ultimate - Tic Tac Toe 
+
+An advanced Tic Tac Toe game built with **HTML, CSS, and JavaScript** 
+featuring multiplayer modes, AI with difficulty levels, real-time timer,
+sound effects, theme switching, and persistent score tracking.
+
+---
+
+## 📌 Features
+
+| Feature                         | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| 🔁 Game Modes                   | Player vs Player / Player vs Computer                                       |
+| 🧠 AI Difficulty                | Easy, Medium, Hard (via Minimax Algorithm)                                  |
+| ⏱️ Turn Timer                   | 10-second timer for each player’s move                                      |
+| 🎵 Sound Effects                | Click, Win, and Draw audio support                                          |
+| 🌙 Dark / Light Mode            | Toggleable theme with UI glow enhancements                                  |
+| 🧾 Score Tracking               | Persistent scores with `localStorage`                                       |
+| 📱 Responsive Design            | Fully responsive layout across screen sizes                                 |
+| 🕹️ New Game / Reset             | Easily start a fresh game or reset the board                                |
+
+---
+
+## 🎮 Gameplay Preview
+
+ ## 🔗 Live Demo
+
+👉 [Play Now](https://<your-username>.github.io/tic-tac-toe-ultimate/)  
+ 
+---
+
+##  📸 Screenshots
+
+![Screenshot 2025-05-24 112112](https://github.com/user-attachments/assets/a6b7b570-9465-4159-ae5e-a1a1c5566281)
+![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/f705dffa-69a6-4751-9d26-e646ce186f25)
+![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/dd3fbeb7-2f55-4fa7-9ff5-2432c3c36915)
+![Screenshot 2025-05-24 112057](https://github.com/user-attachments/assets/cf9a437c-d834-4e4f-97e6-a2b8918185df)
+
+
+## ⚙️ Tech Stack
+
+| Layer          | Tech Used                                      |
+|----------------|------------------------------------------------|
+| Markup         | HTML5                                          |
+| Styling        | CSS3 (Animations, Media Queries, Glow Effects) |
+| Functionality  | Vanilla JavaScript                             |
+| AI Engine      | Minimax Algorithm (for Hard Mode)              |
+| Storage        | `localStorage` for scores and settings         |
+
