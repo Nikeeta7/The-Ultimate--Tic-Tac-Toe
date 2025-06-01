@@ -3,8 +3,11 @@
 An advanced Tic Tac Toe game built with **HTML, CSS, and JavaScript** 
 featuring multiplayer modes, AI with difficulty levels, real-time timer,
 sound effects, theme switching, and persistent score tracking.
-
 ---
+
+## 🔗 Live Demo : 
+
+👉 [Play Now](https://nikeeta7.github.io/The-Ultimate--Tic-Tac-Toe/)
 
 ## 📌 Features
 
@@ -35,11 +38,6 @@ sound effects, theme switching, and persistent score tracking.
 ----
 
 ## 🎮 Gameplay Preview
-
-## 🔗 Live Demo : 
-
-👉 [Play Now](https://nikeeta7.github.io/The-Ultimate--Tic-Tac-Toe/)
- 
 
 ##  📸 Screenshots
 
